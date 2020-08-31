@@ -1,2 +1,2 @@
 # testRepo
-TestGiton Mac
+TestGit on Win
