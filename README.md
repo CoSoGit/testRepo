@@ -1,2 +1,2 @@
 # testRepo
-TestGit on Mac
+TestGit on Windows
