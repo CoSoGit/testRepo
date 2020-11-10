@@ -1,3 +1,3 @@
 # testRepo
 TestGit on Linux
-TestGit on Mac
+TestGit on Mac OTP
